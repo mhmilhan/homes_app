@@ -3,9 +3,9 @@
 
   `npm install -g @angular/cli`
 
-- Clone this branch to your local machine
+- Clone this branch to your local machine ((SSH KEY))
 
-  `git clone -b homes-app-start git@github.com:angular/codelabs.git homes-app`
+  `git clone git@github.com:mhmilhan/homes_app.git` 
 
 - Once the code has been downloaded
 
